@@ -70,6 +70,33 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/2200/index.m3u8
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/966/index.m3u8
 #EXTINF:0 tvg-rec="3",CBC HD AZ
 #EXTGRP:Азербайджан | Azərbaycan
-#EXTGRP:Великобритания | United Kingdom
 
+#EXTINF:-1,TRT 1
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+#EXTINF:-1,ATV
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:-1,STAR TV
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:-1,SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1,KANAL D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1,KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1,NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1,360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1,TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1,TEVE 2
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:-1,TV 8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1,TV 8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
+#EXTINF:-1,BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1,TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
