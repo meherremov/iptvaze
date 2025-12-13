@@ -22,9 +22,6 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/16067/index.m3u8
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/16052/index.m3u8
 #EXTINF:0 tvg-rec="0",Baku TV AZ
 #EXTGRP:Азербайджан | Azərbaycan
-http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/16047/index.m3u8
-#EXTINF:0 tvg-rec="0",MCJ Shopping AZ
-#EXTGRP:Азербайджан | Azərbaycan
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/16046/index.m3u8
 #EXTINF:0 tvg-rec="0",ATV HD AZ
 #EXTGRP:Азербайджан | Azərbaycan
@@ -74,4 +71,5 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/966/index.m3u8
 #EXTINF:0 tvg-rec="3",CBC HD AZ
 #EXTGRP:Азербайджан | Azərbaycan
 #EXTGRP:Великобритания | United Kingdom
+
 
