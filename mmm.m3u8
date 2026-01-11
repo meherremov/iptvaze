@@ -71,3 +71,6 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/966/index.m3u8
 #EXTINF:0 tvg-rec="3",CBC HD AZ
 #EXTGRP:Азербайджан | Azərbaycan
 
+
+#EXTINF:-1 tvg-logo="https://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png", SINEMA AKSIONᵀᴿ
+http://65.108.239.207/sinemaaksiyon/index.m3u8
