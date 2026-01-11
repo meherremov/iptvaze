@@ -77,7 +77,4 @@ http://65.108.239.207/sinemaaksiyon/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PfCWG3MN/1767420739932.png", cine az TV
 https://tv156.radyotelekom.com.tr:3852/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk2RT8Bn/images-removebg-preview.png", Live TV
-#EXTINF:-1 tvg-logo="https://tv.mobyservice.ru/livetv/index.m3u8
-"https://i.postimg.cc/6prVYgqM/tmbtaz-png.png", TMB TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
-
+#EXTINF:-1 tvg-logo="https://tv.mobyservice.ru/livetv/index.m3u
