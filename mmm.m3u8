@@ -78,3 +78,6 @@ http://65.108.239.207/sinemaaksiyon/index.m3u8
 https://tv156.radyotelekom.com.tr:3852/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk2RT8Bn/images-removebg-preview.png", Live TV
 https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1,Naxcivan TV
+#EXTGRP:PEYK TV
+http://str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
